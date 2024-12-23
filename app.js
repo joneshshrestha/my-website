@@ -1,4 +1,8 @@
-const _CONTENT = ['create stuff', 'build websites', 'design websites']
+const _CONTENT = [
+  'develop AI models',
+  'train neural networks',
+  'build machine learning systems',
+]
 
 // Current sentence being processed
 var _PART = 0
